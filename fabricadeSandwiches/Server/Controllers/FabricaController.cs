@@ -21,6 +21,19 @@ namespace fabricadeSandwiches.Server.Controllers
         {
             return await context.Productos.ToListAsync();
         }
+        [HttpGet("{id:int}")]
+        public async Task<ActionResult<Producto>> Get(int id)
+        {
+            var producto = await context.Productos.Where(
+                e => e.Id == id).FirstOrDefaultAsync();
+            if (producto == null)
+            {
+                return NotFound($"No existe la especialidad de Id={id}");
+            }
+            return producto;
+                
+        }
+
 
     }
 }
