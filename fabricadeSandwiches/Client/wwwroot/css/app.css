@@ -2,6 +2,8 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    height: 400px;
+    
 }
 
 h1:focus {
@@ -62,3 +64,13 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+body {
+    background-image: url(https://scontent.fcor10-3.fna.fbcdn.net/v/t39.30808-6/244356817_933307313956954_8944246819168540972_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=MkwVGJ0meGwAX_cOaKD&_nc_ht=scontent.fcor10-3.fna&oh=00_AT8jjCsDRw0kg0FiwQq-vZTyEMuwrNKVM-oi4qaRpYYI4w&oe=62EC2F78);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+
+

@@ -1,0 +1,66 @@
+
+html[b-r90lx5v2ij] {
+    background-color: black;
+    
+}
+
+
+*[b-r90lx5v2ij] {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+
+.login[b-r90lx5v2ij] {
+    width: 380px;
+    height: 600px;
+    border: 1px solid #CCC;
+    background: url(https://media4.giphy.com/media/l1J9O4FYudVXXIWyI/giphy.gif?cid=790b7611c52d51a1bf286113d3c076f3460a77033c72e626&rid=giphy.gif&ct=g) center center no-repeat;
+    background-size: cover;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+
+    .login .form[b-r90lx5v2ij] {
+        width: 100%;
+        height: 100%;
+        padding: 15px 25px;
+    }
+
+        .login .form h2[b-r90lx5v2ij] {
+            color: #FFF;
+            text-align: center;
+            font-weight: normal;
+            font-size: 18px;
+            margin-top: 60px;
+            margin-bottom: 80px;
+        }
+
+        .login .form input[b-r90lx5v2ij] {
+            width: 100%;
+            height: 40px;
+            margin-top: 20px;
+            background: rgba(255,255,255,.5);
+            border: 1px solid rgba(255,255,255,.1);
+            padding: 0 15px;
+            color: #FFF;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+            .login .form input:focus[b-r90lx5v2ij] {
+                border: 1px solid rgba(255,255,255,.8);
+                outline: none;
+            }
+
+[b-r90lx5v2ij]::-webkit-input-placeholder {
+    color: #DDD;
+}
+
+.login .form input.submit[b-r90lx5v2ij] {
+    background: rgba(255,255,255,.9);
+    color: #444;
+    font-size: 15px;
+    margin-top: 40px;
+    font-weight: bold;
+}

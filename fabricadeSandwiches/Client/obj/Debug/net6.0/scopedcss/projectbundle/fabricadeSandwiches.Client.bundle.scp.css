@@ -1,0 +1,276 @@
+/* /Pages/Ingreso.razor.rz.scp.css */
+
+html[b-r90lx5v2ij] {
+    background-color: black;
+    
+}
+
+
+*[b-r90lx5v2ij] {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+
+.login[b-r90lx5v2ij] {
+    width: 380px;
+    height: 600px;
+    border: 1px solid #CCC;
+    background: url(https://media4.giphy.com/media/l1J9O4FYudVXXIWyI/giphy.gif?cid=790b7611c52d51a1bf286113d3c076f3460a77033c72e626&rid=giphy.gif&ct=g) center center no-repeat;
+    background-size: cover;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+
+    .login .form[b-r90lx5v2ij] {
+        width: 100%;
+        height: 100%;
+        padding: 15px 25px;
+    }
+
+        .login .form h2[b-r90lx5v2ij] {
+            color: #FFF;
+            text-align: center;
+            font-weight: normal;
+            font-size: 18px;
+            margin-top: 60px;
+            margin-bottom: 80px;
+        }
+
+        .login .form input[b-r90lx5v2ij] {
+            width: 100%;
+            height: 40px;
+            margin-top: 20px;
+            background: rgba(255,255,255,.5);
+            border: 1px solid rgba(255,255,255,.1);
+            padding: 0 15px;
+            color: #FFF;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+            .login .form input:focus[b-r90lx5v2ij] {
+                border: 1px solid rgba(255,255,255,.8);
+                outline: none;
+            }
+
+[b-r90lx5v2ij]::-webkit-input-placeholder {
+    color: #DDD;
+}
+
+.login .form input.submit[b-r90lx5v2ij] {
+    background: rgba(255,255,255,.9);
+    color: #444;
+    font-size: 15px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+/* /Pages/Registro.razor.rz.scp.css */
+
+html[b-f24mneomtz] {
+    background-color: black;
+}
+
+
+*[b-f24mneomtz] {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.login[b-f24mneomtz] {
+    width: 380px;
+    height: 600px;
+    border: 1px solid #CCC;
+    background: url(https://media4.giphy.com/media/BHNfhgU63qrks/giphy.gif) center center no-repeat;
+    background-size: cover;
+    margin: 30px auto;
+    border-radius: 20px;
+}
+
+    .login .form[b-f24mneomtz] {
+        width: 100%;
+        height: 100%;
+        padding: 15px 25px;
+    }
+
+        .login .form h2[b-f24mneomtz] {
+            color: #FFF;
+            text-align: center;
+            font-weight: normal;
+            font-size: 18px;
+            margin-top: 60px;
+            margin-bottom: 80px;
+        }
+
+        .login .form input[b-f24mneomtz] {
+            width: 100%;
+            height: 40px;
+            margin-top: 20px;
+            background: rgba(255,255,255,.5);
+            border: 1px solid rgba(255,255,255,.1);
+            padding: 0 15px;
+            color: #FFF;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+            .login .form input:focus[b-f24mneomtz] {
+                border: 1px solid rgba(255,255,255,.8);
+                outline: none;
+            }
+
+[b-f24mneomtz]::-webkit-input-placeholder {
+    color: #DDD;
+}
+
+.login .form input.submit[b-f24mneomtz] {
+    background: rgba(255,255,255,.9);
+    color: #444;
+    font-size: 15px;
+    margin-top: 40px;
+    font-weight: bold;
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-62l4ydfxkd] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-62l4ydfxkd] {
+    flex: 1;
+}
+
+.sidebar[b-62l4ydfxkd] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-62l4ydfxkd] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-62l4ydfxkd]  a, .top-row[b-62l4ydfxkd]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-62l4ydfxkd]  a:hover, .top-row[b-62l4ydfxkd]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-62l4ydfxkd]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-62l4ydfxkd] {
+        display: none;
+    }
+
+    .top-row.auth[b-62l4ydfxkd] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-62l4ydfxkd]  a, .top-row[b-62l4ydfxkd]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-62l4ydfxkd] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-62l4ydfxkd] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-62l4ydfxkd] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-62l4ydfxkd]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-62l4ydfxkd], article[b-62l4ydfxkd] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-bo6eojveb9] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-bo6eojveb9] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-bo6eojveb9] {
+    font-size: 1.1rem;
+}
+
+.oi[b-bo6eojveb9] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-bo6eojveb9] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-bo6eojveb9] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-bo6eojveb9] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-bo6eojveb9]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-bo6eojveb9]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-bo6eojveb9]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-bo6eojveb9] {
+        display: none;
+    }
+
+    .collapse[b-bo6eojveb9] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}
