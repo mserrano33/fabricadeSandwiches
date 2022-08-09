@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "pT2pin38y0kuzauCztIcFJ8skIEgP67C7TMiBkCbgk8=",
+  "Hash": "DTw20GuGQ1Dmt7rMMpk5ssEH1frYYmjwG/M8rpkJ0+M=",
   "Source": "fabricadeSandwiches.Server",
   "BasePath": "_content/fabricadeSandwiches.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\emiliano\\source\\repos\\fabricadeSandwiches\\fabricadeSandwiches\\Client\\fabricadeSandwiches.Client.csproj",
+      "Identity": "C:\\Users\\emiliano\\Source\\Repos\\fabricadeSandwiches\\fabricadeSandwiches\\Client\\fabricadeSandwiches.Client.csproj",
       "Version": 2,
       "Source": "fabricadeSandwiches.Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
