@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8c4Lf3gW82DBkKeYKBw6aVXSBS4lIE+5AcnRu41vjk0Od9OVJR+0VkxuMAiDCHSh9DLYqFxEOor8aMbVpBAK6A==",
+  "dgSpecHash": "H+Rcjl2sJYInwaqDXZM0U8e0T8YlKzvwlvcsoAEM6ckTiuveqcjZG0jVGIMNARPVt9mquQTSiRz+CqvfSko/0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emiliano\\source\\repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj",
+  "projectFilePath": "C:\\Users\\emiliano\\Source\\Repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emiliano\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emiliano\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

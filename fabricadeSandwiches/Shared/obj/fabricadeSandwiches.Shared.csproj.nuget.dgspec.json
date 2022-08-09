@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emiliano\\source\\repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj": {}
+    "C:\\Users\\emiliano\\Source\\Repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emiliano\\source\\repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj": {
+    "C:\\Users\\emiliano\\Source\\Repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emiliano\\source\\repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\emiliano\\Source\\Repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj",
         "projectName": "fabricadeSandwiches.Shared",
-        "projectPath": "C:\\Users\\emiliano\\source\\repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj",
+        "projectPath": "C:\\Users\\emiliano\\Source\\Repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\fabricadeSandwiches.Shared.csproj",
         "packagesPath": "C:\\Users\\emiliano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emiliano\\source\\repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\emiliano\\Source\\Repos\\fabricadeSandwiches\\fabricadeSandwiches\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

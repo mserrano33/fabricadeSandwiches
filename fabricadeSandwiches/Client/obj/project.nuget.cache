@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j5V5UX7jY+JbNT+OqvlYKOkX57tkk4rVxO2CtmZo2omGOekrF96Qr9xaXI8rX1WkxrZTdcm0pebbyesUikhpWQ==",
+  "dgSpecHash": "U+YT3wESnRn3TQAIaHi0f0fm1b++CDLU/fvoxP0anndHk/5ieIHp4THPsdlri5I3e1z+jpOQgldnpQlMLwNryA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emiliano\\source\\repos\\fabricadeSandwiches\\fabricadeSandwiches\\Client\\fabricadeSandwiches.Client.csproj",
+  "projectFilePath": "C:\\Users\\emiliano\\Source\\Repos\\fabricadeSandwiches\\fabricadeSandwiches\\Client\\fabricadeSandwiches.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emiliano\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emiliano\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.6\\microsoft.aspnetcore.authorization.6.0.6.nupkg.sha512",
