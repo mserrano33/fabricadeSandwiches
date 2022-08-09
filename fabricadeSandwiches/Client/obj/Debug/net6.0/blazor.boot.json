@@ -220,14 +220,14 @@
       "netstandard.dll": "sha256-yQ7oiuGXRX47V21EibXbfTPXOkJGOgCJhW9YF6e4hw0=",
       "System.Private.CoreLib.dll": "sha256-Ug2\/rd8Ck7Dls6uaZNmrqc7EvE8f41iX96qdX57LStQ=",
       "fabricadeSandwiches.Shared.dll": "sha256-mAcTLWbzi8fsG75toLlt0hySAQdde1dj92S7SMO44cA=",
-      "fabricadeSandwiches.Client.dll": "sha256-KmcYEE8ZYZSDC5fcfeeNSbpYjBs5R9jvfNSgCPmeMQg="
+      "fabricadeSandwiches.Client.dll": "sha256-ZQIcw97noJxUC2zd\/gST8mE9lwKBAktsYgd7zVwNbqc="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "fabricadeSandwiches.Shared.pdb": "sha256-4oIhAPOIgLHdfbxMTUiJTP8m0ICE3uOW+kMXqr2IVK8=",
-      "fabricadeSandwiches.Client.pdb": "sha256-yMLxs6XDETKS9kG0EaCcm1JV0lvuXqGIi0acQiRf4s0="
+      "fabricadeSandwiches.Client.pdb": "sha256-utRZd\/r\/Aw3gsZipfd8\/JPS6OG6OhZAmGClLvIm14OE="
     },
     "runtime": {
       "dotnet.6.0.6.mmmbokydu7.js": "sha256-zJXgw\/tAzTVOXksPhtpZVT12vxHC7S9mQyBRM36dwD0=",

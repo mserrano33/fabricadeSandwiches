@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-gyUmj6qWWuwP5hc6pTVyJ8Yt8wYe5CLE2jPSSY2JiLI=",
+      "hash": "sha256-RaMQW4wj4GFdDlwjldkAJZBodBwhwPskjpHG4qWtZVM=",
       "url": "css\/app.css"
     },
     {
@@ -49,12 +49,24 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
+      "hash": "sha256-6RW0oIuuDZ5Bb6c4jIvOg8cVsjVVLLJ8U5h1oYF8\/rQ=",
+      "url": "empresas.png"
+    },
+    {
+      "hash": "sha256-wyfm\/tUnYneBaqGCvQJAk2PvmezTFYoCVMN\/QZ9dozU=",
+      "url": "face.png"
+    },
+    {
       "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "url": "favicon.ico"
     },
     {
       "hash": "sha256-o0O3to7mv4sR1WyKyzlj23ffzGz0nvOlLyEVwoxWYuc=",
       "url": "foto.jpg"
+    },
+    {
+      "hash": "sha256-oDoFR6I5FWQqD54XlIbY4QtCwOvFL8hx3G1YJiQ1eN8=",
+      "url": "fotoentrada.png"
     },
     {
       "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
@@ -67,6 +79,18 @@
     {
       "hash": "sha256-DxQ\/fz2CJbVm42p6wBdDvLS6qDo7jYYmCW36gem3LSM=",
       "url": "index.html"
+    },
+    {
+      "hash": "sha256-wvFRdYiNjXJ6B2Nrv5N1G2PBaoU\/EFT8+Uq\/vyo80qQ=",
+      "url": "insta.png"
+    },
+    {
+      "hash": "sha256-ARGm2QJGP3MuSw0FflCfWqoXH+623vSNW415oI8tAmk=",
+      "url": "logo1.jpg"
+    },
+    {
+      "hash": "sha256-Fintm3RD35UZ4a8b4SUmrskHQ3UF16NTvsFxb55zoKI=",
+      "url": "logo_dorado.png"
     },
     {
       "hash": "sha256-xgSR3Z86jGIqLxLOdi2Un03Xq+abK5REE6S6GcGRP1A=",
@@ -85,7 +109,15 @@
       "url": "Personalizado\/js\/scripts.js"
     },
     {
-      "hash": "sha256-JUrflATP3aEY7Xg+HotKhDTGKg1D1PKTG\/0L9K6dPYY=",
+      "hash": "sha256-w16iyDpdJcxb9\/g41PjdWTTIVY0\/iKX0XgY3y\/NgBSI=",
+      "url": "sand.gif"
+    },
+    {
+      "hash": "sha256-txwCcPNS8PmQttsYxc8Q2xjxKCB4SBso9QAUVBbvm7g=",
+      "url": "whatsapp.png"
+    },
+    {
+      "hash": "sha256-YoYJ\/LE+SYbayGsG8V\/hSZjJL\/TvajFr+drS0Nuy06I=",
       "url": "fabricadeSandwiches.Client.styles.css"
     },
     {
@@ -973,11 +1005,11 @@
       "url": "_framework\/fabricadeSandwiches.Shared.pdb"
     },
     {
-      "hash": "sha256-KmcYEE8ZYZSDC5fcfeeNSbpYjBs5R9jvfNSgCPmeMQg=",
+      "hash": "sha256-I7rM1u2iz1tQyGTMzmK5Z79VTwJ+cEJfbZa\/2LsPzbk=",
       "url": "_framework\/fabricadeSandwiches.Client.dll"
     },
     {
-      "hash": "sha256-yMLxs6XDETKS9kG0EaCcm1JV0lvuXqGIi0acQiRf4s0=",
+      "hash": "sha256-7Yf6KzksG68eOPH8kLJNz0rm53NofCcmoxbmYqbGnCA=",
       "url": "_framework\/fabricadeSandwiches.Client.pdb"
     },
     {
@@ -985,9 +1017,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-c2wpTIwKxJeDtztA5ipD\/DWjWKvk8szWwyP+JHh4uuQ=",
+      "hash": "sha256-GX\/XFpVKvYGM6a+GfrtY9LYTEcXVA\/J26y9doY8YMcQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "FQp0Cs8w"
+  "version": "gy5Hm6Dw"
 };
